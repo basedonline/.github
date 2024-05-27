@@ -1,7 +1,7 @@
 ---
 name: Definition of done
 about: '💫 Standard ticket when we finish up a project'
-title: 'Definition of done'
+title: '💫 Definition of done'
 labels: ''
 assignees: 'levdbas'
 
