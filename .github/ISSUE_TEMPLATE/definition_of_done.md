@@ -25,6 +25,7 @@ assignees: 'levdbas'
 ### Tasks at end of project
 
 - [ ] Are licenses activated?
+- [ ] Did we use Google maps & is the API working?
 - [ ] Are forms working/do they send replies?
 - [ ] Is ReCaptcha set up?
 - [ ] Is Mailgun set up?
